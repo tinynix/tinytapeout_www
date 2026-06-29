@@ -8,7 +8,7 @@ tags: ['milestone']
 layout: single
 cover:
     image: images/TT.jpeg
-    alt: Tiny Tapeout Artwork
+    alt: Artwork by Maximo Balestrini
 ---
 
 The [TT02](/chips/tt02) chips are coming home, baby!
